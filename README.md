@@ -1,1 +1,1 @@
-# DataStructuresFundamentals
+# DataStructures
